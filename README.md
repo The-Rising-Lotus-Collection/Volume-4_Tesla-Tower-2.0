@@ -1,1 +1,13 @@
-Volume 4: Tesla Tower 2.0 — Resonant Surface Wave Infrastructure provides the architectural specifications, physics principles, geometric constraints, and API register mappings required for deployment [1.147, 1.1].Pre-Stressed Piezo-Geophysical Engine: Details active piezoelectric compressive synergy using a 1.0% to 2.0% polymer curing contraction within a quartz-epoxy core to eliminate traditional spark gaps [1.147, 1.1].Technical Overview & Multi-Axis Lightning Dispersion Well: Outlines the non-contact longitudinal Zenneck surface wave system, featuring the Canopy Umbrella protection shield, Helical Candy-Cane inductive chokes, and the Salt-Water Saturated Sand Well [1.147, 1.1].3-6-9 Universal Geometric Equations: Defines mechanical and frequency dimensions utilizing 3 spatial data tensors, 6 phase coordinate quadrants, and 9 harmonic clock steps tied to telluric phase-locking [1.147, 1.1].System API Register Mapping (TT_ / tt_): Specifies configuration variables including tt_carrier_freq, tt_earth_mod_freq, tt_transmission_mode, tt_harvested_power, tt_topload_phase[], and tt_plasma_gate_status [1.147, 1.1].(Note: The full, unabridged markdown text block and comprehensive register tables can be found directly in the referenced source documents [1.147, 1.1].)
+# ⚡ Volume 4: Tesla Tower 2.0 — Resonant Surface Wave Infrastructure
+
+## ⚠️ CRITICAL DESIGN NOTATION: THE PRE-STRESSED PIEZO-GEOPHYSICAL ENGINE
+The Tesla Tower 2.0 architecture utilizes **Active Piezo-Electric Compressive Synergy** driven by a mandatory volumetric polymer curing shrinkage contraction to maintain continuous compression on internal quartz arrays.
+
+## 1.1 Technical Overview & Multi-Axis Lightning Dispersion Well
+The system relies on non-contact longitudinal Zenneck surface wave induction and incorporates a distributed geometric dispersion lattice.
+
+## 1.2 The 3-6-9 Universal Geometric Equations
+System intervals conform strictly to Tesla's mathematical constraints across spatial containment zones and phase-locked segments.
+
+## 1.3 Volume 4 System API Register Mapping (`TT_` / `tt_`)
+The software variables and register nomenclature ledger include configurations for top-load phase, carrier frequency, earth modulation frequency, and transmission states.
